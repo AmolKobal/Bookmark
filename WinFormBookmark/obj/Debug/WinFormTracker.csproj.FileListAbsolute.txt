@@ -1,0 +1,10 @@
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormTracker.csprojAssemblyReference.cache
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormTracker.Properties.Resources.resources
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormTracker.csproj.GenerateResource.cache
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormTracker.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormTracker.frmTracker.resources
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\bin\Debug\WinFormTracker.exe.config
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\bin\Debug\WinFormTracker.exe
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\bin\Debug\WinFormTracker.pdb
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormTracker.exe
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormTracker.pdb

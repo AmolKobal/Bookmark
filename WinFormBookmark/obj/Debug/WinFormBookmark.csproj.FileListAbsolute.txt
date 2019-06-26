@@ -1,0 +1,10 @@
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormBookmark.csprojAssemblyReference.cache
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormBookmark.Properties.Resources.resources
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormBookmark.csproj.GenerateResource.cache
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormBookmark.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormBookmark.frmBookmark.resources
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\bin\Debug\WinFormBookmark.exe.config
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\bin\Debug\WinFormBookmark.exe
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\bin\Debug\WinFormBookmark.pdb
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormBookmark.exe
+C:\MyData\Projects\DotNet\Tracker\WinForm\WinFormTracker\obj\Debug\WinFormBookmark.pdb
